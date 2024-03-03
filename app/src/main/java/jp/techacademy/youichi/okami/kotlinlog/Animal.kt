@@ -11,5 +11,6 @@ abstract class Animal {
         this.age = age
     }
 
+    // 抽象メソッド
     abstract fun say()
 }
